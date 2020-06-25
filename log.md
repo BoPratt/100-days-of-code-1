@@ -1,14 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: June 24, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Decided to go for it and dig into Python.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Worked more on the Scrimba Python tutorial that I never finished months ago. Decided to start from the beginning as a refresher course. Also using GitHub for the first time ever, so excited to integrate that into my knowledge bank.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to example:** [Scrimba Lesson](https://scrimba.com/course/gpython)
 
+
+### Day 2: June 25, 2020
+
+**Today's Progress**: Worked more on the Scrimba Python tutorial.
+
+**Thoughts:** Actually woke up at 5am and decided to just work while the world was quiet. I'm enjoying the productive feeling. Worked up until the exercises on Conditional Methods.
+
+**Link to example:** [Scrimba Lesson](https://scrimba.com/p/pNpZMAB/c2PWdWCN)
+
+<!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
@@ -28,3 +37,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
