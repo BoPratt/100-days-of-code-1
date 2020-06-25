@@ -6,6 +6,8 @@
 
 **Thoughts:** Worked more on the Scrimba Python tutorial that I never finished months ago. Decided to start from the beginning as a refresher course. Also using GitHub for the first time ever, so excited to integrate that into my knowledge bank.
 
+**Hours Worked:** 1.25
+
 **Link to example:** [Scrimba Lesson](https://scrimba.com/course/gpython)
 
 
@@ -14,6 +16,8 @@
 **Today's Progress**: Worked more on the Scrimba Python tutorial.
 
 **Thoughts:** Actually woke up at 5am and decided to just work while the world was quiet. I'm enjoying the productive feeling. Worked up until the exercises on Conditional Methods.
+
+**Hours Worked:** 1.75
 
 **Link to example:** [Scrimba Lesson](https://scrimba.com/p/pNpZMAB/c2PWdWCN)
 
