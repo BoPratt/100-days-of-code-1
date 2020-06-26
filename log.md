@@ -15,11 +15,21 @@
 
 **Today's Progress**: Worked more on the Scrimba Python tutorial.
 
-**Thoughts:** Actually woke up at 5am and decided to just work while the world was quiet. I'm enjoying the productive feeling. Worked up until the exercises on Conditional Methods.
+**Thoughts:** Actually woke up at 5am and decided to just work while the world was quiet. I'm enjoying the productive feeling. Worked up until the exercises on Conditional Methods. And then worked past it later in the day.
 
-**Hours Worked:** 1.75
+**Hours Worked:** 2.75
 
 **Link to example:** [Scrimba Lesson](https://scrimba.com/p/pNpZMAB/c2PWdWCN)
+
+### Day 2: June 25, 2020
+
+**Today's Progress**: Worked more on the Scrimba Python tutorial.
+
+**Thoughts:** Worked through a number guessing game and jut had fun improving it beyond the scope of the project. got stuck in a while loop trying to filter unusable user input and accidentally cmd Q'ed Brave browser lol. Taking a break here.
+
+**Hours Worked:** 1.25
+
+**Link to example:** [Scrimba Lesson](https://scrimba.com/p/pNpZMAB/cV8WmMcM)
 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
