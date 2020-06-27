@@ -21,11 +21,21 @@
 
 **Link to example:** [Scrimba Lesson](https://scrimba.com/p/pNpZMAB/c2PWdWCN)
 
-### Day 2: June 25, 2020
+### Day 3: June 26, 2020
 
 **Today's Progress**: Worked more on the Scrimba Python tutorial.
 
 **Thoughts:** Worked through a number guessing game and jut had fun improving it beyond the scope of the project. got stuck in a while loop trying to filter unusable user input and accidentally cmd Q'ed Brave browser lol. Taking a break here.
+
+**Hours Worked:** 1.25
+
+**Link to example:** [Scrimba Lesson](https://scrimba.com/p/pNpZMAB/cV8WmMcM)
+
+### Day 4: June 27, 2020
+
+**Today's Progress**: Worked more on the Scrimba Python tutorial.
+
+**Thoughts:** So I was working on an exercise and when looking up string methods, overlooked the title() method. So I spent 30 mins trying to split and capitalize a string then re-add it. Almost had it but there was a bug when adding it back to the main list that I didnt figure out. Then I saw the title() method and had to just laugh.
 
 **Hours Worked:** 1.25
 
