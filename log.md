@@ -41,6 +41,16 @@
 
 **Link to example:** [Scrimba Lesson](https://scrimba.com/p/pNpZMAB/cV8WmMcM)
 
+
+### Day 5: June 28, 2020
+
+**Today's Progress**: Worked more on the Scrimba Python tutorial.
+
+**Thoughts:** Worked on a shop where you could purchase items from one store, and then go to the next to do the same with a total walles of $1000. Mainly used for loops, dictionaries, and lists. Suped it up as usual.
+
+**Hours Worked:** ?? ~1.5
+
+**Link to example:** [Scrimba Lesson](https://scrimba.com/p/pNpZMAB/cNDRLWTR)
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
