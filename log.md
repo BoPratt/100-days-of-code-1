@@ -51,6 +51,17 @@
 **Hours Worked:** ?? ~1.5
 
 **Link to example:** [Scrimba Lesson](https://scrimba.com/p/pNpZMAB/cNDRLWTR)
+
+### Day 6: June 28, 2020
+
+**Today's Progress**: Worked more on the Scrimba Python tutorial.
+
+**Thoughts:** Mostly learned about using classes and creating the methods in those classes. Also, how some methods could overide others or use them as a base and add to their functionality.
+
+**Hours Worked:** ??
+
+**Link to example:** [Scrimba Lesson](https://scrimba.com/p/pNpZMAB/czk6KmCe)
+
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
