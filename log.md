@@ -52,7 +52,7 @@
 
 **Link to example:** [Scrimba Lesson](https://scrimba.com/p/pNpZMAB/cNDRLWTR)
 
-### Day 6: June 28, 2020
+### Day 6: June 29, 2020
 
 **Today's Progress**: Worked more on the Scrimba Python tutorial.
 
@@ -61,6 +61,26 @@
 **Hours Worked:** ??
 
 **Link to example:** [Scrimba Lesson](https://scrimba.com/p/pNpZMAB/czk6KmCe)
+
+### Day 7: June 30, 2020
+
+**Today's Progress**: Worked more on the Scrimba Python tutorial.
+
+**Thoughts:** Spun my wheels today. I re learned things from yesterday but my brain wasnt taking in any more info because I was cramming all day yesterday for A+ 1001 an I took the test today (and passed). I was just too tired to give this my all but I made sure that I did something small.
+
+**Hours Worked:** 25 mins
+
+**Link to example:** [Scrimba Lesson](same)
+
+### Day 8: July 1, 2020
+
+**Today's Progress**: Worked more on the Scrimba Python tutorial.
+
+**Thoughts:** Worked on Lambdas. I remember how hard these were for me to grasp in the past. I understand that they are a function and how to replace a written function but I need more practice and study to make it click.
+
+**Hours Worked:** 1 hr
+
+**Link to example:** [Scrimba Lesson](https://scrimba.com/p/pNpZMAB/cKpNKbuQ)
 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
