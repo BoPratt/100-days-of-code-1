@@ -82,6 +82,16 @@
 
 **Link to example:** [Scrimba Lesson](https://scrimba.com/p/pNpZMAB/cKpNKbuQ)
 
+### Day ???: July 14, 2020
+
+**Today's Progress**: Worked more on the Scrimba Python tutorial.
+
+**Thoughts:** So I missed a day when I was studying to pass the first half of the A+ exam and then my coding was spotty so I decided that Im going to start the days over. However Im not keeping track at the moment. Today I learned that I should start writing psuedo code to help me stay focused and I also want to start posting my code examples, so I will create a file on Git for each example. Today I worked on a marble betting game.
+
+**Hours Worked:** 1 hr
+
+**Link to example:** [Scrimba Lesson](https://scrimba.com/p/pNpZMAB/cE9kgpA6)
+
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
