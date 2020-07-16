@@ -82,7 +82,7 @@
 
 **Link to example:** [Scrimba Lesson](https://scrimba.com/p/pNpZMAB/cKpNKbuQ)
 
-### Day ???: July 14, 2020
+### Day 1 Again: July 14, 2020
 
 **Today's Progress**: Worked more on the Scrimba Python tutorial.
 
@@ -90,7 +90,27 @@
 
 **Hours Worked:** 1 hr
 
-**Link to example:** [Scrimba Lesson](https://scrimba.com/p/pNpZMAB/cE9kgpA6)
+**Link to example:** [Scrimba Lesson](https://raw.githubusercontent.com/BoPratt/100-days-of-code-1/master/bettingGame.md)
+
+
+### Day 2: July 15, 2020
+
+**Today's Progress**: Worked on the Udemy Python tutorial.
+
+**Thoughts:** Actually finished the Scrimba tutorial with the example yesterday and didnt realize it lol. So I spent some time looking through my bookmarks and found a python class I signed up for on Udemy. So spent the time reading material and taking quizzes to get to my current understanding of python.
+**Hours Worked:** 1 hr
+
+**Link to example:** [Udemy Class](https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/learn/lecture/15670490#overview)
+
+### Day 3: July 16, 2020
+
+**Today's Progress**: Worked on the Udemy Python tutorial.
+
+**Thoughts:** Still catching up on the Udemy course. Instead of skipping to work, I felt it was helpful to have the instructors lessons as a catch up/reminder. Although this course seems to have more holes in it, I think I will benefit from the practice of the upcoming 15 apps and games I will be coding during it.
+**Hours Worked:** 1 hr
+
+**Link to example:** [Udemy Class](n/a)
+
 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
